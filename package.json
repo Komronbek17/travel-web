@@ -1,0 +1,14 @@
+{
+    "name": "the-road-final",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "homepage": "https://Komronbek17.github.io/travel-web",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "deploy": "gh-pages -d dist"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
